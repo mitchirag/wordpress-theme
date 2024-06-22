@@ -1,0 +1,28 @@
+/*
+Theme Name: Ark Packaging Enterprise
+Theme URI: https://arkpackagingenterprise.in/
+Author: Meritorious Infotech
+Author URI: http://meritoriousinfotech.com/
+Description: A custom WordPress theme for Ark Packaging Enterprise using Bootstrap and GSAP.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ark-packaging-enterprise
+Tags: custom-theme, bootstrap, gsap, woocommerce
+*/
+
+
+.widget-area {
+    margin-top: 20px;
+}
+.widget {
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.widget-title {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
